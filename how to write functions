@@ -1,0 +1,5 @@
+def subtraction(i,j):
+  return i-j
+x= int(input())
+y=int(input())
+print(subtraction(y,x))  
